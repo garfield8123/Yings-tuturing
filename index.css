@@ -1,3 +1,15 @@
+.button {
+  background-color: #00f2bb;
+  border: none;
+  color: black;
+  padding: 15px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 4px;
+  cursor: pointer;
+}
 .navbar-custom{
     background-color: #a1f2ff;
 }
