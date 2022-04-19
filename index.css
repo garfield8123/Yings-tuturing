@@ -32,9 +32,9 @@
       text-align:center;
     }
 
-      a{
+      a:link{
         textcolor:#CF9FE1;
-        color: black;
+]
       }
       a:hover{
         color: #CF9FE1;
