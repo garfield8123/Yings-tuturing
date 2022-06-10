@@ -1,7 +1,7 @@
 .button {
   background-color: #a1f2ff;
   border: none;
-  color: #CF9FE1;
+  color: #495DF5;
   padding: 15px 15px;
   text-align: center;
   text-decoration: none;
@@ -19,25 +19,25 @@
     color: black;
 } 
 .navbar-custom .navbar-toggler-icon {
-    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg%27%3E%3Cpath stroke='rgba(207, 159, 255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E ")
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg%27%3E%3Cpath stroke='rgba(73, 93, 245, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E ")
 }
 .gap {
   background-color: white;
   padding: 24px 24px 24px 50px;
 }
     body{
-      background-color: #a1f2ff;
+      background-color: #F0FBFF;
     }
     h1,h2,h3,h4,h5,p{
       text-align:center;
     }
 
       a:link{
-        textcolor:#CF9FE1;
+        textcolor:#495DF5;
 ]
       }
       a:hover{
-        color: #CF9FE1;
+        color: #495DF5;
       }
     
 
